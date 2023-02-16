@@ -1,0 +1,13 @@
+C:\dev\Area_Circulo\bin\Debug\netcoreapp3.1\Area_Circulo.exe
+C:\dev\Area_Circulo\bin\Debug\netcoreapp3.1\Area_Circulo.deps.json
+C:\dev\Area_Circulo\bin\Debug\netcoreapp3.1\Area_Circulo.runtimeconfig.json
+C:\dev\Area_Circulo\bin\Debug\netcoreapp3.1\Area_Circulo.runtimeconfig.dev.json
+C:\dev\Area_Circulo\bin\Debug\netcoreapp3.1\Area_Circulo.dll
+C:\dev\Area_Circulo\bin\Debug\netcoreapp3.1\Area_Circulo.pdb
+C:\dev\Area_Circulo\obj\Debug\netcoreapp3.1\Area_Circulo.csprojAssemblyReference.cache
+C:\dev\Area_Circulo\obj\Debug\netcoreapp3.1\Area_Circulo.AssemblyInfoInputs.cache
+C:\dev\Area_Circulo\obj\Debug\netcoreapp3.1\Area_Circulo.AssemblyInfo.cs
+C:\dev\Area_Circulo\obj\Debug\netcoreapp3.1\Area_Circulo.csproj.CoreCompileInputs.cache
+C:\dev\Area_Circulo\obj\Debug\netcoreapp3.1\Area_Circulo.dll
+C:\dev\Area_Circulo\obj\Debug\netcoreapp3.1\Area_Circulo.pdb
+C:\dev\Area_Circulo\obj\Debug\netcoreapp3.1\Area_Circulo.genruntimeconfig.cache
